@@ -64,11 +64,12 @@ To extract the minimal rule structure:
 
 Decision Tree Probe:
 
-![Decision Tree](results/plots/decision_tree_probe.png)
+![Decision Tree](results/plots/Decision_tree.png)
 
 The final implementation follows the format:
 
 ```python
 (condition, calculation_function)
+
 
 
